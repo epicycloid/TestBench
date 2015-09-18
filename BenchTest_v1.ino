@@ -1,6 +1,6 @@
 // BenchTest_v1.ino
 // 
-// Framework for bench test configuration of prototype virtuOTrans hardware, consisting of:
+// Framework for bench test configuration of prototype lathe hardware, consisting of:
 // - Teensy 3.1 (or 3.2)  https://www.pjrc.com/store/teensy31.html & https://www.pjrc.com/store/teensy32_pins.html
 // - Mounted on a Teensy 3* Proto Board  https://www.tindie.com/products/freto/teensy-3-breakout-board-and-shield/
 // - ILI9341 TFT screen  https://www.pjrc.com/store/display_ili9341.html
